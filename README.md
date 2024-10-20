@@ -43,9 +43,6 @@ Please note that you may need to sign up for an API key and update the code with
 - CSS
 - JavaScript (Modern)
 
-## Credits
-
-This project was developed by [Alkaison](https://github.com/Alkaison "GitHub Profile"). If you have any questions or suggestions, feel free to [contact me](https://twitter.com/Alkaison "Twitter Profile").
 
 ## License
 
